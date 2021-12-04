@@ -1,8 +1,7 @@
-# Advent of Code Day 1 - Part 1
+# Advent of Code Day 3
 
 # Imports
 import numpy as np
-import pandas as pd
 
 # Get data
 report = np.loadtxt('../data/day3_data.txt', dtype=str)
